@@ -1,6 +1,6 @@
-# Desafios-Python-iniciante
+# Projetos para Iniciantes em Python
 
-Projetos para Iniciantes em Python
+
 Este repositório contém uma série de desafios e projetos simples para iniciantes aprenderem Python. Cada projeto foi pensado para ajudar a praticar conceitos importantes da linguagem como manipulação de strings, loops, funções, e muito mais.
 
 Projetos
